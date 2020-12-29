@@ -2,13 +2,13 @@
 
 
 
-<a href="">
+<a href="https://twitter.com/BonchayO">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/bonchay-ouk-44a2901b8/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://github.com/BonchayHi5">
   <img align="left" alt=" Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="">
