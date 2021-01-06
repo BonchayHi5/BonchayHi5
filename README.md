@@ -3,7 +3,7 @@
 
 
 <a href="https://twitter.com/BonchayO">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />
 </a>
 <a href="https://www.linkedin.com/in/bonchay-ouk-44a2901b8/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
