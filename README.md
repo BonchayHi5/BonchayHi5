@@ -11,7 +11,7 @@
 <a href="https://github.com/BonchayHi5">
   <img align="left" alt=" Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="">
+<a href="https://t.me/bonchayouk">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="">
