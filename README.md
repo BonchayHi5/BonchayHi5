@@ -30,8 +30,8 @@
 
 ## Here is what i'm currently working on
 
-- 🔭 I’m currently working on [Selendra Marketplace](https://github.com/selendra/selendra-mkplace) & [Kaabop](https://github.com/selendra/kaabop).
-- 🌱 I’m currently learning more about BlockChain.
+
+- 🌱 I’m currently learning more about Blockchain.
 - 😄 Pronouns: He/His
 
 
