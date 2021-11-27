@@ -1,6 +1,10 @@
 ## Hola, I'm Bonchay Ouk 👋
 
 
+![Bonchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonchayHi5&show_icons=true&theme=radical)
+
+
+
 
 <!-- <a href="https://twitter.com/BonchayO">
   <img align="left" alt="Twitter" width="22px" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" />
@@ -48,7 +52,6 @@
 
 
 
-![Bonchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonchayHi5&show_icons=true&theme=radical)
 
 
 
