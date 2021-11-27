@@ -43,12 +43,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  
-
-
-![Bonchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonchayHi5&show_icons=true&theme=radical)
-
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonchayHi5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+![Bonchay's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonchayHi5&show_icons=true&theme=radical)
 
 
 
