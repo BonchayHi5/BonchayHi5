@@ -50,6 +50,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonchayHi5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
 
 
 </div>
