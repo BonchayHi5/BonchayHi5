@@ -50,6 +50,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonchayHi5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <img src="https://github.com/BonchayHi5/BonchayHi5/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 
 </div>
